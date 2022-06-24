@@ -8,4 +8,5 @@ echo "<br>";
 $y = $x+$y;
 echo "<br>";
 echo $y;
+echo "Thankyou";
 ?>
