@@ -2,11 +2,15 @@
 $txt = "Hello world!";
 $x = 5;
 $y = 10.5;
-
+$z=0;
 echo $txt;
 echo "<br>";
-$y = $x+$y;
+$z = $x+$y;
 echo "<br>";
-echo $y;
+echo "Addition is is:-";
+echo $z;
 echo "Thankyou";
+$z=$x-$y
+echo "Substraction is:-";
+echo $z;
 ?>
